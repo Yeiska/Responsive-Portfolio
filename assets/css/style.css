@@ -96,6 +96,11 @@ input{
      width: 100%;
      bottom: 3px;
 }
+#game, #unit-4-game{
+    float: bottom;
+    clear: both;
+    padding: 30px;
+}
 #left-column, #rigth-column{
     background: white;
     padding: 25px;
