@@ -96,7 +96,7 @@ input{
      width: 100%;
      bottom: 3px;
 }
-#game, #unit-4-game{
+#game, #unit-4-game, #TriviaGame{
     float: bottom;
     clear: both;
     padding: 30px;
